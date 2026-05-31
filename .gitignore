@@ -1,0 +1,31 @@
+# === Ambiente Python (rigenerabile da setup/requirements.txt) ===
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# === Segreti — MAI versionare ===
+.env
+*.env
+**/secrets.local
+*.key
+*.pem
+
+# === VM: dischi e file macchina (restano in OneDrive, fuori dal versioning) ===
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+*.ova
+*.iso
+*.nvram
+*.sav
+
+# === Log grezzi voluminosi (le sintesi stanno in gestione/RISULTATI.md) ===
+# risultati/raw/
+
+# === File di sistema / OneDrive ===
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp

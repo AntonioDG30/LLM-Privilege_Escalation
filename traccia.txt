@@ -1,0 +1,22 @@
+email inviata al prof con richiesta autorizzazione per progetto 8 su "Intelligent Penetration Testing":
+"Buonasera Professore,
+
+mi permetto di scriverle per riproporle una mia e-mail di qualche giorno fa. Temendo che la precedente comunicazione possa essere finita inavvertitamente nello spam o esserle semplicemente sfuggita tra i vari impegni, ho pensato di inviargliela nuovamente.
+
+Per il progetto avevo pensato di lavorare sull'Intelligent Penetration Testing con LLM, partendo dal paper "Getting pwn'd by AI: Penetration Testing with Large Language Models" (Happe & Cito, ESEC/FSE 2023, https://arxiv.org/abs/2308.00121).
+
+L'idea è replicare la sperimentazione con hackingBuddyGPT (https://github.com/ipa-lab/hackingBuddyGPT), un framework open-source che collega un LLM via SSH a macchine Linux vulnerabili e testa la sua capacità di eseguire privilege escalation in autonomia.
+
+Pensavo di fare i test su alcune VM prese da VulnHUB, confrontando i risultati tra modelli diversi, GPT-4o (costi permettendo) e qualche modello locale via Ollama, e documentando tutto come da lei richiesto.
+
+Le andrebbe bene come argomento?
+
+La ringrazio in anticipo per il feedback e la disponibilità. In attesa di un Suo riscontro, le auguro una buona serata."
+
+
+risposta del prof:
+"Buongiorno Antonio,
+
+Sì, direi che la tua idea va molto bene. Puoi procedere tranquillamente.
+
+Saluti e buon lavoro,"
