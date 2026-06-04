@@ -24,6 +24,12 @@ __pycache__/
 # === Log grezzi voluminosi (le sintesi stanno in gestione/RISULTATI.md) ===
 # risultati/raw/
 
+# === File di lavoro interni (NON parte della consegna al docente) ===
+# gestione/ = log/stato di progetto (scaffolding nostro); memory/ = preferenze di Claude.
+# Restano su disco/OneDrive ma fuori dal versionamento e dalla consegna.
+gestione/
+memory/
+
 # === File di sistema / OneDrive ===
 Thumbs.db
 desktop.ini
