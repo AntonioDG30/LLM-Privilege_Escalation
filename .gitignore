@@ -21,8 +21,14 @@ __pycache__/
 *.nvram
 *.sav
 
-# === Log grezzi voluminosi (le sintesi stanno in gestione/RISULTATI.md) ===
+# === Dati grezzi voluminosi (il DB ~51M sta su OneDrive + nella consegna, non in git) ===
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-journal
 # risultati/raw/
+
+# === Output rigenerabile con path assoluti locali (contiene lo username della macchina) ===
+risultati/analisi.txt
 
 # === File di lavoro interni (NON parte della consegna al docente) ===
 # gestione/ = log/stato di progetto (scaffolding nostro); memory/ = preferenze di Claude.
